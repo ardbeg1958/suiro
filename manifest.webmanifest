@@ -1,0 +1,2 @@
+{"name":"水路つなぎの庭","short_name":"水路つなぎ","description":"管がひとりでにつながり、水が届いた庭で花がひらく。配管パズルを自動で解いていく様子を眺める鑑賞アプリ。","start_url":"./","scope":"./","display":"fullscreen","orientation":"any","background_color":"#2f5a2a","theme_color":"#2f5a2a","lang":"ja",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},{"src":"icon-180.png","sizes":"180x180","type":"image/png"}]}
